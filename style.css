@@ -1,5 +1,6 @@
 body {
     background-color: #fff;
+    font-family: 'Roboto';
 }
 
 .carousel .carousel-item {
@@ -17,4 +18,7 @@ body {
   .hero {
     background-image: url('img/hero.png');
     background-size: 100% 100%;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: red;
 }
